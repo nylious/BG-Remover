@@ -34,7 +34,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Erios-Online","Watching Erios-Online"];
+const statusMessages = ["Playing Erios-Online","Playing Erios-Online"];
 
 
 let currentIndex = 0;
